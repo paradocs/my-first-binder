@@ -31,7 +31,7 @@ This Pluto notebook uses @bind for interactivity. When running this notebook out
 # ╔═╡ fc21549e-5683-11eb-07bf-51233c3f5e9b
 
 md"""
-## My Notebook $~~~~~~~$ Jan 13 20201
+## My Notebook $~~~~~~~$ Jan 13 2021
 
 For no brake spaces use tildes for
 
