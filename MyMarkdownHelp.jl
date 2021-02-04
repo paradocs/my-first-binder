@@ -142,7 +142,7 @@ md"""
 # ╔═╡ a634c51e-5bb9-11eb-185b-7777c0b5a778
 md"""
 ## My bull Bovis.
-!["A pretty tiger"](https://thumbs2.imgbox.com/c6/6f/T13ZjubW_t.jpg)
+!["A Fine Bull"](https://thumbs2.imgbox.com/c6/6f/T13ZjubW_t.jpg)
 """
 
 # ╔═╡ b61675e2-5a4b-11eb-1983-b96c71b4e0d1
