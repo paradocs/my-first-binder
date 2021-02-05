@@ -126,10 +126,13 @@ Here's a quote:
 | *Row* 2         | **Row** 2        |``C2``Column,Row     |
 | *Row* 3         | **Row** 3        |``C3``Column,Row     |
 
-### Footnotes & Index
+
+
+### Footnotes & Index 
+[^Index]:**INDEX:** [^Page1] Top [^Page2] Mid
 [^1]:Footnote One   
 [^Barringer]:Reference Article
-[^Index]:[^Page1] [^Page2]
+
 """
 
 
@@ -142,11 +145,11 @@ md"""
 # ╔═╡ a634c51e-5bb9-11eb-185b-7777c0b5a778
 md"""
 ## My bull Bovis.
-!["A Fine Bull"](https://thumbs2.imgbox.com/c6/6f/T13ZjubW_t.jpg)
+!["A pretty tiger"](https://thumbs2.imgbox.com/c6/6f/T13ZjubW_t.jpg)
 """
 
 # ╔═╡ b61675e2-5a4b-11eb-1983-b96c71b4e0d1
-myVariable = 65
+myVariable =66
 
 # ╔═╡ 2ad843c6-5b00-11eb-3092-51f414ed4efe
 myString = "My variable is"
